@@ -514,6 +514,17 @@
 		    <string>#E6AC32</string>
 		  </dict>
 		</dict>
+		<dict>
+		  <key>name</key>
+		  <string>PHP: namespaces</string>
+		  <key>scope</key>
+		  <string>constant.other.php</string>
+		  <key>settings</key>
+		  <dict>
+		    <key>foreground</key>
+		    <string>#D1C79E</string>
+		  </dict>
+		</dict>
 	</array>
 	<key>uuid</key>
 	<string>38E819D9-AE02-452F-9231-ECC3B204AFD7</string>
