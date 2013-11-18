@@ -522,7 +522,186 @@
 		  <key>settings</key>
 		  <dict>
 		    <key>foreground</key>
-		    <string>#D1C79E</string>
+		    <string>#9AB2C8</string>
+		  </dict>
+		</dict>
+		<dict>
+		  <key>name</key>
+		  <string>PHP: class</string>
+		  <key>scope</key>
+		  <string>storage.type.class.php</string>
+		  <key>settings</key>
+		  <dict>
+		    <key>foreground</key>
+		    <string>#E6AC32</string>
+		    <key>fontStyle</key>
+		    <string>normal</string>
+		  </dict>
+		</dict>
+		<dict>
+		  <key>name</key>
+		  <string>PHP: class name</string>
+		  <key>scope</key>
+		  <string>entity.name.type.class.php</string>
+		  <key>settings</key>
+		  <dict>
+		    <key>foreground</key>
+		    <string>#9AB2C8</string>
+		  </dict>
+		</dict>
+		<dict>
+		  <key>name</key>
+		  <string>PHP: modifier</string>
+		  <key>scope</key>
+		  <string>storage.modifier.php</string>
+		  <key>settings</key>
+		  <dict>
+		    <key>foreground</key>
+		    <string>#E6AC32</string>
+		    <key>fontStyle</key>
+		    <string>normal</string>
+		  </dict>
+		</dict>
+		<dict>
+		  <key>name</key>
+		  <string>PHP: modifier implements</string>
+		  <key>scope</key>
+		  <string>storage.modifier.implements.php</string>
+		  <key>settings</key>
+		  <dict>
+		    <key>foreground</key>
+		    <string>#E6AC32</string>
+		    <key>fontStyle</key>
+		    <string>normal</string>
+		  </dict>
+		</dict>
+		<dict>
+		  <key>name</key>
+		  <string>PHP: modifier extends</string>
+		  <key>scope</key>
+		  <string>storage.modifier.extends.php</string>
+		  <key>settings</key>
+		  <dict>
+		    <key>foreground</key>
+		    <string>#E6AC32</string>
+		    <key>fontStyle</key>
+		    <string>normal</string>
+		  </dict>
+		</dict>
+		<dict>
+		  <key>name</key>
+		  <string>PHP: function</string>
+		  <key>scope</key>
+		  <string>storage.type.function.php</string>
+		  <key>settings</key>
+		  <dict>
+		    <key>foreground</key>
+		    <string>#E1E0E5</string>
+		    <key>fontStyle</key>
+		    <string>normal</string>
+		  </dict>
+		</dict>
+		<dict>
+		  <key>name</key>
+		  <string>PHP: phpdoc keyword</string>
+		  <key>scope</key>
+		  <string>keyword.other.phpdoc.php</string>
+		  <key>settings</key>
+		  <dict>
+		    <key>foreground</key>
+		    <string>#67686B</string>
+		    <key>fontStyle</key>
+		    <string>normal</string>
+		  </dict>
+		</dict>
+		<dict>
+		  <key>name</key>
+		  <string>PHP: variable</string>
+		  <key>scope</key>
+		  <string>variable.other.php</string>
+		  <key>settings</key>
+		  <dict>
+		    <key>foreground</key>
+		    <string>#E1E0E5</string>
+		  </dict>
+		</dict>
+		<dict>
+		  <key>name</key>
+		  <string>PHP: property</string>
+		  <key>scope</key>
+		  <string>variable.other.property.php</string>
+		  <key>settings</key>
+		  <dict>
+		    <key>foreground</key>
+		    <string>#E1E0E5</string>
+		  </dict>
+		</dict>
+		<dict>
+		  <key>name</key>
+		  <string>PHP: new</string>
+		  <key>scope</key>
+		  <string>keyword.other.new.php</string>
+		  <key>settings</key>
+		  <dict>
+		    <key>foreground</key>
+		    <string>#E1E0E5</string>
+		  </dict>
+		</dict>
+		<dict>
+		  <key>name</key>
+		  <string>PHP: keywords</string>
+		  <key>scope</key>
+		  <string>keyword.control.php</string>
+		  <key>settings</key>
+		  <dict>
+		    <key>foreground</key>
+		    <string>#62ACCE</string>
+		    <key>fontStyle</key>
+		    <string>bold</string>
+		  </dict>
+		</dict>
+		<dict>
+		  <key>name</key>
+		  <string>PHP: punctuation</string>
+		  <key>scope</key>
+		  <string>source.php</string>
+		  <key>settings</key>
+		  <dict>
+		    <key>foreground</key>
+		    <string>#9AB2C8</string>
+		  </dict>
+		</dict>
+		<dict>
+		  <key>name</key>
+		  <string>PHP: class</string>
+		  <key>scope</key>
+		  <string>support.class.php</string>
+		  <key>settings</key>
+		  <dict>
+		    <key>foreground</key>
+		    <string>#9AB2C8</string>
+		  </dict>
+		</dict>
+		<dict>
+		  <key>name</key>
+		  <string>PHP: implements interface</string>
+		  <key>scope</key>
+		  <string>support.class.implements.php</string>
+		  <key>settings</key>
+		  <dict>
+		    <key>foreground</key>
+		    <string>#9AB2C8</string>
+		  </dict>
+		</dict>
+		<dict>
+		  <key>name</key>
+		  <string>PHP: start</string>
+		  <key>scope</key>
+		  <string>punctuation.section.embedded.begin.php</string>
+		  <key>settings</key>
+		  <dict>
+		    <key>foreground</key>
+		    <string>#9AB2C8</string>
 		  </dict>
 		</dict>
 	</array>
