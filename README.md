@@ -9,6 +9,15 @@ Screenshots
 Javascript:
 ![JavaScript syntax](screenshot-js.png)
 
+PHP:
+![PHP syntax](screenshot-php.png)
+
+HTML:
+![HTML syntax](screenshot-html.png)
+
+Looks great with the [Flatland theme](https://github.com/thinkpixellab/flatland):
+![with Flatland theme](screenshot-flatland.png)
+
 LICENSE
 -------
 
