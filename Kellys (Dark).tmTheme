@@ -420,6 +420,8 @@
 			<dict>
 				<key>foreground</key>
 				<string>#9AB2C8</string>
+				<key>fontStyle</key>
+				<string>normal</string>
 			</dict>
 		</dict>
 		<dict>
@@ -479,6 +481,28 @@
 			<dict>
 				<key>foreground</key>
 				<string>#9AB2C8</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>JS: dom properties</string>
+			<key>scope</key>
+			<string>support.constant.dom.js</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#E1E0E5</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>JS: dom methods</string>
+			<key>scope</key>
+			<string>support.function.dom.js</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#E1E0E5</string>
 			</dict>
 		</dict>
 		<dict>
