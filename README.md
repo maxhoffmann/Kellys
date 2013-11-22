@@ -7,7 +7,7 @@ Screenshots
 -----------
 
 Javascript:
-![JavaScript syntax](screenshot.js)
+![JavaScript syntax](screenshot-js.png)
 
 LICENSE
 -------
