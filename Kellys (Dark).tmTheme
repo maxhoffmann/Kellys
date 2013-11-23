@@ -506,6 +506,28 @@
 			</dict>
 		</dict>
 		<dict>
+			<key>name</key>
+			<string>JS: dom properties</string>
+			<key>scope</key>
+			<string>support.constant.dom.js</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#E1E0E5</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>JS: dom method</string>
+			<key>scope</key>
+			<string>support.function.dom.js</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#E1E0E5</string>
+			</dict>
+		</dict>
+		<dict>
 		  <key>name</key>
 		  <string>GitGutter deleted</string>
 		  <key>scope</key>
