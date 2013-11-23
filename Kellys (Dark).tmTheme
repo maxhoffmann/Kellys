@@ -485,9 +485,9 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>JS: dom properties</string>
+			<string>JS: constants</string>
 			<key>scope</key>
-			<string>support.constant.dom.js</string>
+			<string>support.constant.js</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
@@ -496,9 +496,9 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>JS: dom methods</string>
+			<string>JS: standard methods</string>
 			<key>scope</key>
-			<string>support.function.dom.js</string>
+			<string>support.function.js</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
