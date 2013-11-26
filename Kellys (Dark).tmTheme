@@ -772,6 +772,17 @@
 		    <string>#62ACCE</string>
 		  </dict>
 		</dict>
+		<dict>
+		  <key>name</key>
+		  <string>PHP: constant</string>
+		  <key>scope</key>
+		  <string>meta.function-call.object.php</string>
+		  <key>settings</key>
+		  <dict>
+		    <key>foreground</key>
+		    <string>#E1E0E5</string>
+		  </dict>
+		</dict>
 	</array>
 	<key>uuid</key>
 	<string>38E819D9-AE02-452F-9231-ECC3B204AFD7</string>
