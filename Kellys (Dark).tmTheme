@@ -785,6 +785,17 @@
 		</dict>
 		<dict>
 		  <key>name</key>
+		  <string>PHP: magic functions</string>
+		  <key>scope</key>
+		  <string>support.function.magic.php</string>
+		  <key>settings</key>
+		  <dict>
+		    <key>foreground</key>
+		    <string>#E1E0E5</string>
+		  </dict>
+		</dict>
+		<dict>
+		  <key>name</key>
 		  <string>JSON</string>
 		  <key>scope</key>
 		  <string>meta.structure.dictionary.json</string>
