@@ -528,6 +528,19 @@
 			</dict>
 		</dict>
 		<dict>
+			<key>name</key>
+			<string>JS: storage modifier</string>
+			<key>scope</key>
+			<string>storage.modifier.js</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#E1E0E5</string>
+				<key>fontStyle</key>
+				<string>normal</string>
+			</dict>
+		</dict>
+		<dict>
 		  <key>name</key>
 		  <string>GitGutter deleted</string>
 		  <key>scope</key>
