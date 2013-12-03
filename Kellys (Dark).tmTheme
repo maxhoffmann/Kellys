@@ -809,6 +809,28 @@
 		</dict>
 		<dict>
 		  <key>name</key>
+		  <string>PHP: static functions</string>
+		  <key>scope</key>
+		  <string>meta.function-call.static.php</string>
+		  <key>settings</key>
+		  <dict>
+		    <key>foreground</key>
+		    <string>#E1E0E5</string>
+		  </dict>
+		</dict>
+		<dict>
+		  <key>name</key>
+		  <string>PHP: class</string>
+		  <key>scope</key>
+		  <string>support.class.php</string>
+		  <key>settings</key>
+		  <dict>
+		    <key>foreground</key>
+		    <string>#E1E0E5</string>
+		  </dict>
+		</dict>
+		<dict>
+		  <key>name</key>
 		  <string>JSON</string>
 		  <key>scope</key>
 		  <string>meta.structure.dictionary.json</string>
