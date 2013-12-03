@@ -623,6 +623,17 @@
 		</dict>
 		<dict>
 		  <key>name</key>
+		  <string>PHP: function</string>
+		  <key>scope</key>
+		  <string>storage.type.php</string>
+		  <key>settings</key>
+		  <dict>
+		    <key>fontStyle</key>
+		    <string>normal</string>
+		  </dict>
+		</dict>
+		<dict>
+		  <key>name</key>
 		  <string>PHP: modifier implements</string>
 		  <key>scope</key>
 		  <string>storage.modifier.implements.php</string>
@@ -715,8 +726,6 @@
 		  <dict>
 		    <key>foreground</key>
 		    <string>#62ACCE</string>
-		    <key>fontStyle</key>
-		    <string>bold</string>
 		  </dict>
 		</dict>
 		<dict>
