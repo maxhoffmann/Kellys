@@ -195,7 +195,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#CB4B16</string>
+				<string>#CC4D16</string>
 			</dict>
 		</dict>
 		<dict>
@@ -302,7 +302,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#CB4B16</string>
+				<string>#CC4D16</string>
 			</dict>
 		</dict>
 		<dict>
@@ -313,7 +313,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#CB4B16</string>
+				<string>#CC4D16</string>
 			</dict>
 		</dict>
 		<dict>
@@ -384,7 +384,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#25CA2C</string>
+				<string>#6BB347</string>
 			</dict>
 		</dict>
 		<dict>
@@ -395,7 +395,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#DC141D</string>
+				<string>#CC4D16</string>
 			</dict>
 		</dict>
 		<dict>
@@ -548,7 +548,7 @@
 		  <key>settings</key>
 		  <dict>
 		    <key>foreground</key>
-		    <string>#DC141D</string>
+		    <string>#CC4D16</string>
 		  </dict>
 		</dict>
 		<dict>
@@ -559,7 +559,7 @@
 		  <key>settings</key>
 		  <dict>
 		    <key>foreground</key>
-		    <string>#25CA2C</string>
+		    <string>#6BB347</string>
 		  </dict>
 		</dict>
 		<dict>
@@ -847,6 +847,127 @@
 		  <dict>
 		    <key>foreground</key>
 		    <string>#9AB2C8</string>
+		  </dict>
+		</dict>
+		<dict>
+		  <key>name</key>
+		  <string>SublimeGit</string>
+		  <key>scope</key>
+		  <string>source.git-diff</string>
+		  <key>settings</key>
+		  <dict>
+		    <key>foreground</key>
+		    <string>#E1E0E5</string>
+		  </dict>
+		</dict>
+		<dict>
+		  <key>name</key>
+		  <string>SublimeGit</string>
+		  <key>scope</key>
+		  <string>punctuation.definition.to-file.diff</string>
+		  <key>settings</key>
+		  <dict>
+		    <key>foreground</key>
+		    <string>#6BB347</string>
+		  </dict>
+		</dict>
+		<dict>
+		  <key>name</key>
+		  <string>SublimeGit</string>
+		  <key>scope</key>
+		  <string>punctuation.definition.from-file.diff</string>
+		  <key>settings</key>
+		  <dict>
+		    <key>foreground</key>
+		    <string>#CC4D16</string>
+		  </dict>
+		</dict>
+		<dict>
+		  <key>name</key>
+		  <string>SublimeGit</string>
+		  <key>scope</key>
+		  <string>source.git-diff markup.deleted.diff</string>
+		  <key>settings</key>
+		  <dict>
+		    <key>foreground</key>
+		    <string>#CC4D16</string>
+		  </dict>
+		</dict>
+		<dict>
+		  <key>name</key>
+		  <string>SublimeGit</string>
+		  <key>scope</key>
+		  <string>source.git-diff markup.inserted.diff</string>
+		  <key>settings</key>
+		  <dict>
+		    <key>foreground</key>
+		    <string>#6BB347</string>
+		  </dict>
+		</dict>
+		<dict>
+		  <key>name</key>
+		  <string>SublimeGit</string>
+		  <key>scope</key>
+		  <string>meta.diff.header.from-file</string>
+		  <key>settings</key>
+		  <dict>
+		    <key>foreground</key>
+		    <string>#E1E0E5</string>
+		  </dict>
+		</dict>
+		<dict>
+		  <key>name</key>
+		  <string>SublimeGit</string>
+		  <key>scope</key>
+		  <string>meta.diff.header.to-file</string>
+		  <key>settings</key>
+		  <dict>
+		    <key>foreground</key>
+		    <string>#E1E0E5</string>
+		  </dict>
+		</dict>
+		<dict>
+		  <key>name</key>
+		  <string>SublimeGit</string>
+		  <key>scope</key>
+		  <string>meta.diff</string>
+		  <key>settings</key>
+		  <dict>
+		    <key>foreground</key>
+		    <string>#67686B</string>
+		  </dict>
+		</dict>
+		<dict>
+		  <key>name</key>
+		  <string>SublimeGit: remote</string>
+		  <key>scope</key>
+		  <string>comment.git-status.header.remote</string>
+		  <key>settings</key>
+		  <dict>
+		    <key>foreground</key>
+		    <string>#D1C79E</string>
+		  </dict>
+		</dict>
+		<dict>
+		  <key>name</key>
+		  <string>SublimeGit: local</string>
+		  <key>scope</key>
+		  <string>comment.git-status.header.local</string>
+		  <key>settings</key>
+		  <dict>
+		    <key>foreground</key>
+		    <string>#62ACCE</string>
+		  </dict>
+		</dict>
+		<dict>
+		  <key>name</key>
+		  <string>SublimeGit: head</string>
+		  <key>scope</key>
+		  <string>comment.other.git-status.head</string>
+		  <key>settings</key>
+		  <dict>
+		    <key>foreground</key>
+		    <string>#E1E0E5</string>
 		  </dict>
 		</dict>
 	</array>
