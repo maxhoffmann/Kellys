@@ -20,9 +20,7 @@
         <key>lineHighlight</key>
         <string>#F8F7FC</string>
         <key>selection</key>
-        <string>#E1E0E5</string>
-        <key>selectionForeground</key>
-        <string>#2A2B2F</string>
+        <string>#F8F7FC</string>
         <key>gutter</key>
         <string>#ffffff</string>
         <key>gutterForeground</key>
@@ -39,7 +37,7 @@
         <key>fontStyle</key>
         <string />
         <key>foreground</key>
-        <string>#67686B</string>
+        <string>#D5D4D9</string>
       </dict>
     </dict>
     <dict>
