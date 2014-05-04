@@ -285,17 +285,6 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Library class/type</string>
-			<key>scope</key>
-			<string>support.type, support.class</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#62ACCE</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>Library Exception</string>
 			<key>scope</key>
 			<string>support.type.exception</string>
