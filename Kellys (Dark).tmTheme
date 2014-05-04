@@ -396,8 +396,6 @@
 			<dict>
 				<key>fontStyle</key>
 				<string>normal</string>
-				<key>foreground</key>
-				<string>#E6AC32</string>
 			</dict>
 		</dict>
 		<dict>
