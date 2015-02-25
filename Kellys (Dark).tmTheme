@@ -37,7 +37,7 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string></string>
+				<string />
 				<key>foreground</key>
 				<string>#67686B</string>
 			</dict>
@@ -86,15 +86,26 @@
 				<string>#D1C79E</string>
 			</dict>
 		</dict>
+    <dict>
+      <key>name</key>
+      <string>Variable</string>
+      <key>scope</key>
+      <string>variable.language</string>
+      <key>settings</key>
+      <dict>
+        <key>foreground</key>
+        <string>#62ACCE</string>
+      </dict>
+    </dict>
 		<dict>
 			<key>name</key>
 			<string>Variable</string>
 			<key>scope</key>
-			<string>variable.language, variable.other</string>
+			<string>variable.other</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#62ACCE</string>
+				<string>#E1E0E5</string>
 			</dict>
 		</dict>
 		<dict>
@@ -191,7 +202,7 @@
 			<key>name</key>
 			<string>User-defined constant</string>
 			<key>scope</key>
-			<string>constant.character, constant.other</string>
+			<string>constant.character</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
@@ -204,7 +215,7 @@
 			<key>scope</key>
 			<string>entity.other.inherited-class</string>
 			<key>settings</key>
-			<dict/>
+			<dict />
 		</dict>
 		<dict>
 			<key>name</key>
@@ -311,7 +322,7 @@
 			<key>scope</key>
 			<string>support.other.variable</string>
 			<key>settings</key>
-			<dict/>
+			<dict />
 		</dict>
 		<dict>
 			<key>name</key>
@@ -319,7 +330,7 @@
 			<key>scope</key>
 			<string>invalid</string>
 			<key>settings</key>
-			<dict/>
+			<dict />
 		</dict>
 		<dict>
 			<key>name</key>
@@ -358,7 +369,7 @@
 			<key>name</key>
 			<string>Braces</string>
 			<key>scope</key>
-			<string>meta.brace</string>
+			<string>meta.brace, meta.group.braces</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
@@ -387,15 +398,26 @@
 				<string>#CC4D16</string>
 			</dict>
 		</dict>
+    <dict>
+      <key>name</key>
+      <string>JS: function</string>
+      <key>scope</key>
+      <string>storage.type.function.js</string>
+      <key>settings</key>
+      <dict>
+        <key>fontStyle</key>
+        <string>normal</string>
+      </dict>
+    </dict>
 		<dict>
 			<key>name</key>
-			<string>JS: function</string>
+			<string>JS: object property</string>
 			<key>scope</key>
-			<string>storage.type.function.js</string>
+			<string>string.unquoted, meta.property.object, entity.name, support.function.firebug</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
-				<string>normal</string>
+				<key>foreground</key>
+				<string>#E1E0E5</string>
 			</dict>
 		</dict>
 		<dict>
@@ -415,7 +437,7 @@
 			<key>name</key>
 			<string>JS: function braces</string>
 			<key>scope</key>
-			<string>punctuation.definition.parameters.begin.js, punctuation.definition.parameters.end.js</string>
+			<string>punctuation.definition.parameters.begin.js, punctuation.definition.parameters.end.js, punctuation.separator.key-value</string>
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
@@ -957,6 +979,7 @@
 		    <string>#E1E0E5</string>
 		  </dict>
 		</dict>
+	<dict>
 	</array>
 	<key>uuid</key>
 	<string>38E819D9-AE02-452F-9231-ECC3B204AFD7</string>
