@@ -3,16 +3,19 @@ Kellys
 
 Color Scheme for Sublime Text inspired by [vim-scripts’s kellys theme for VIM](https://github.com/vim-scripts/kellys).
 
-Screenshots
------------
+Supported Languages
+-------------------
 
-Javascript:
+### Javascript
 ![JavaScript syntax](screenshot-js.png)
 
-PHP:
+### PHP
 ![PHP syntax](screenshot-php.png)
 
-HTML:
+### Elm
+![Elm syntax](screenshot-elm.png)
+
+### HTML
 ![HTML syntax](screenshot-html.png)
 
 Looks great with the [Flatland theme](https://github.com/thinkpixellab/flatland):
