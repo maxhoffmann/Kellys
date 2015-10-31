@@ -858,6 +858,189 @@
 		    <string>#9AB2C8</string>
 		  </dict>
 		</dict>
+
+		<dict>
+		  <key>name</key>
+		  <string>Elm module</string>
+		  <key>scope</key>
+		  <string>meta.declaration.module.elm keyword.other.elm</string>
+		  <key>settings</key>
+		  <dict>
+		  	<key>fontStyle</key>
+		  	<string>bold</string>
+		  </dict>
+		</dict>
+		<dict>
+		  <key>name</key>
+		  <string>Elm module</string>
+		  <key>scope</key>
+		  <string>support.other.module.elm</string>
+		  <key>settings</key>
+		  <dict>
+		  	<key>fontStyle</key>
+		  	<string>normal</string>
+		  	<key>foreground</key>
+		  	<string>#E1E0E5</string>
+		  </dict>
+		</dict>
+		<dict>
+		  <key>name</key>
+		  <string>Elm exposing</string>
+		  <key>scope</key>
+		  <string>meta.import.elm</string>
+		  <key>settings</key>
+		  <dict>
+		  	<key>fontStyle</key>
+		  	<string>normal</string>
+		  	<key>foreground</key>
+		  	<string>#E6AC32</string>
+		  </dict>
+		</dict>
+		<dict>
+		  <key>name</key>
+		  <string>Elm (..)</string>
+		  <key>scope</key>
+		  <string>meta.import.elm keyword.import.elm</string>
+		  <key>settings</key>
+		  <dict>
+		  	<key>fontStyle</key>
+		  	<string>normal</string>
+		  	<key>foreground</key>
+		  	<string>#E6AC32</string>
+		  </dict>
+		</dict>
+		<dict>
+		  <key>name</key>
+		  <string>Elm export (</string>
+		  <key>scope</key>
+		  <string>meta.import.elm meta.declaration.exports.elm</string>
+		  <key>settings</key>
+		  <dict>
+		  	<key>fontStyle</key>
+		  	<string>normal</string>
+		  	<key>foreground</key>
+		  	<string>#E1E0E5</string>
+		  </dict>
+		</dict>
+		<dict>
+		  <key>name</key>
+		  <string>Elm export Type</string>
+		  <key>scope</key>
+		  <string>meta.import.elm meta.declaration.exports.elm storage.type.elm</string>
+		  <key>settings</key>
+		  <dict>
+		  	<key>fontStyle</key>
+		  	<string>normal</string>
+		  	<key>foreground</key>
+		  	<string>#E1E0E5</string>
+		  </dict>
+		</dict>
+		<dict>
+		  <key>name</key>
+		  <string>Elm export function</string>
+		  <key>scope</key>
+		  <string>meta.import.elm meta.declaration.exports.elm entity.name.function.elm</string>
+		  <key>settings</key>
+		  <dict>
+		  	<key>fontStyle</key>
+		  	<string>normal</string>
+		  	<key>foreground</key>
+		  	<string>#E1E0E5</string>
+		  </dict>
+		</dict>
+		<dict>
+		  <key>name</key>
+		  <string>Elm function name</string>
+		  <key>scope</key>
+		  <string>entity.name.function.elm</string>
+		  <key>settings</key>
+		  <dict>
+		    <key>foreground</key>
+		    <string>#E6AC32</string>
+		  </dict>
+		</dict>
+		<dict>
+		  <key>name</key>
+		  <string>Elm type declaration function name</string>
+		  <key>scope</key>
+		  <string>meta.function.type-declaration.elm entity.name.function.elm</string>
+		  <key>settings</key>
+		  <dict>
+		    <key>fontStyle</key>
+		    <string>normal</string>
+		  	<key>foreground</key>
+		  	<string>#9AB2C8</string>
+		  </dict>
+		</dict>
+		<dict>
+		  <key>name</key>
+		  <string>Elm type declaration parameter</string>
+		  <key>scope</key>
+		  <string>meta.function.type-declaration.elm storage.type.elm</string>
+		  <key>settings</key>
+		  <dict>
+		    <key>fontStyle</key>
+		    <string>normal</string>
+		  </dict>
+		</dict>
+		<dict>
+		  <key>name</key>
+		  <string>Elm type declaration colon</string>
+		  <key>scope</key>
+		  <string>meta.function.type-declaration.elm keyword.other.colon.elm</string>
+		  <key>settings</key>
+		  <dict>
+		  	<key>foreground</key>
+		  	<string>#9AB2C8</string>
+		  </dict>
+		</dict>
+		<dict>
+		  <key>name</key>
+		  <string>Elm type declaration arrow</string>
+		  <key>scope</key>
+		  <string>meta.function.type-declaration.elm keyword.other.arrow.elm</string>
+		  <key>settings</key>
+		  <dict>
+		  	<key>foreground</key>
+		  	<string>#9AB2C8</string>
+		  </dict>
+		</dict>
+		<dict>
+		  <key>name</key>
+		  <string>Elm comma</string>
+		  <key>scope</key>
+		  <string>punctuation.separator.comma.elm</string>
+		  <key>settings</key>
+		  <dict>
+		  	<key>foreground</key>
+		  	<string>#9AB2C8</string>
+		  </dict>
+		</dict>
+		<dict>
+		  <key>name</key>
+		  <string>Elm type</string>
+		  <key>scope</key>
+		  <string>constant.other.elm</string>
+		  <key>settings</key>
+		  <dict>
+		  	<key>foreground</key>
+		  	<string>#E6AC32</string>
+		  </dict>
+		</dict>
+		<dict>
+		  <key>name</key>
+		  <string>Elm type declaration arrow</string>
+		  <key>scope</key>
+		  <string>constant.language.empty-list.elm</string>
+		  <key>settings</key>
+		  <dict>
+		  	<key>fontStyle</key>
+		  	<string>bold</string>
+		  	<key>foreground</key>
+		  	<string>#E1E0E5</string>
+		  </dict>
+		</dict>
+
 		<dict>
 		  <key>name</key>
 		  <string>SublimeGit</string>
